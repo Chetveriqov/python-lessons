@@ -33,4 +33,4 @@ while True:
         
     else:
         print("Неизвестная команда. Попробуйте: add/show/delete/exit")
-        print("Github config edit!")
+        print("Github config edit!!!")
