@@ -6,3 +6,5 @@ shopping[1] = "cat food"
 
 for shop in shopping:
     print(shop)
+
+print(shopping.index("eggs"))
